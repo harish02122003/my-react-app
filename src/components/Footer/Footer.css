@@ -1,0 +1,14 @@
+.footer{
+    margin:100px auto;
+    display: flex;
+    max-width: 100%;
+    margin-left: 100px;
+    border-top: 1px ;
+    padding:15px 0;
+
+}
+.footer ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 100px;
+}
